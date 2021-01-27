@@ -103,6 +103,8 @@ brew install --cask google-chrome
 brew install --cask visual-studio-code
 brew install --cask charles
 brew install --cask docker
+brew install --cask keepingyouawake
+brew install --cask gas-mask
 
 # Remove outdated versions from the cellar.
 brew cleanup
