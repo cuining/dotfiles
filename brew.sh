@@ -52,6 +52,10 @@ brew install screen
 # brew install sfnt2woff-zopfli
 # brew install woff2
 
+# Install fonts
+brew tap homebrew/cask-fonts
+brew install --cask font-fira-code
+
 # Install some CTF tools; see https://github.com/ctfs/write-ups.
 # brew install aircrack-ng
 # brew install bfg
@@ -105,6 +109,8 @@ brew install --cask charles
 brew install --cask docker
 brew install --cask keepingyouawake
 brew install --cask gas-mask
+brew install --cask clashx
+brew install --cask postman
 
 # Remove outdated versions from the cellar.
 brew cleanup
