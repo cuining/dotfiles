@@ -101,6 +101,7 @@ brew install ssh-copy-id
 brew install tree
 brew install vbindiff
 brew install zopfli
+brew install starship
 
 # install app
 brew install --cask google-chrome
