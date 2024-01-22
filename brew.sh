@@ -113,6 +113,6 @@ brew install --cask gas-mask
 brew install --cask clashx
 brew install --cask postman
 brew install --cask figma
-brew install --cask alfred
+brew install --cask feem
 # Remove outdated versions from the cellar.
 brew cleanup
