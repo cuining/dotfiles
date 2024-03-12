@@ -111,7 +111,7 @@ brew install --cask docker
 brew install --cask keepingyouawake
 brew install --cask gas-mask
 brew install --cask clashx
-brew install --cask postman
+brew install --cask rapidapi
 brew install --cask figma
 brew install --cask feem
 # Remove outdated versions from the cellar.
